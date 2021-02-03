@@ -8,6 +8,6 @@ package com.cq.domain;
 //第一个github提交
 public class Person {
 
-    private String id;
+    private String name;
 
 }
